@@ -1,0 +1,24 @@
+Python
+
+pycache/
+*.py[cod]
+.venv/
+.env
+
+ROS2 workspace
+
+build/
+install/
+log/
+
+Node/misc
+
+node_modules/
+.DS_Store
+Thumbs.db
+
+Local artifacts
+
+media/.mp4
+media/.mov
+cad/
