@@ -1,0 +1,15 @@
+i2c_addr: 0x40
+neutral_pwm: 307     # ~1.5ms at 50Hz
+channels:
+  LF_hip:   0
+  LF_thigh: 1
+  LF_knee:  2
+  RF_hip:   3
+  RF_thigh: 4
+  RF_knee:  5
+  LH_hip:   6
+  LH_thigh: 7
+  LH_knee:  8
+  RH_hip:   9
+  RH_thigh: 10
+  RH_knee:  11
