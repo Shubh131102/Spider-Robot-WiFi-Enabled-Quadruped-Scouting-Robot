@@ -1,0 +1,9 @@
+Part,Qty,Link,Notes
+Servo (MG90S or chosen),12,,
+PCA9685 PWM Driver,1,,
+Arduino UNO R4 (or controller),1,,
+ESP32-CAM,1,,
+Power distribution board,1,,
+Battery + BEC,1,,
+3D-printed parts (see cad/),--,,
+Screws/standoffs, --,,
