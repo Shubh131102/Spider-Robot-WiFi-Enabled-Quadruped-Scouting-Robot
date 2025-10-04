@@ -72,3 +72,11 @@ A 12-DOF spider-inspired quadruped robot designed for traversing rough terrain a
 
 This project is licensed under the MIT License.
 
+---
+
+📂 **Resources:**  
+- [Project Presentation (Slides)](docs/Spider%20Robot%20Presentation.pptx)  
+- [CAD Files](cad/)  
+- [Firmware](firmware/)  
+- [Launch Files](launch/) 
+
